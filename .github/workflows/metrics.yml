@@ -36,4 +36,4 @@ jobs:
           plugin_isocalendar_duration: half-year
 
           plugin_reactions: yes
-          plugin_reactions: relative
+          plugin_reactions_display: relative
